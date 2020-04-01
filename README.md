@@ -2,7 +2,7 @@
 
 Academic Project for the course of **Big Data Foundations**
 
-Group: Francisco Costa, João Gouveia, Pedro Riveira, Nuno Rocha
+Group: Francisco Costa, João Gouveia, Pedro Rivera, Nuno Rocha
 
 Programming Language: **HiveQL, Python** (used to scrape data)
 
